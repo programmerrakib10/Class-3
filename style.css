@@ -1,0 +1,50 @@
+.heading {
+    color:aliceblue;
+    background-color:tomato;
+    font-size: 40px;
+}
+
+.div1 {
+    text-decoration:none;
+    background-color: rgb(2, 18, 255);
+    padding: 10px 20px;
+    color: aliceblue;
+    font-weight: 700;
+   
+}
+.heading1 {
+    color: aliceblue;
+    background-color: tomato;
+    font-size: 30px;
+}
+.link-button {
+    text-decoration:none;
+    background-color: rgb(255, 24, 7);
+    padding: 10px 20px;
+    color: aliceblue;
+    font-weight: 700;
+}
+.heading2 {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: aliceblue;
+    font-weight: 700;
+}
+.button {
+    text-decoration:none;
+    background-color: rgb(255, 24, 7);
+    padding: 10px 20px;
+    color: aliceblue;
+    font-weight: 700;
+}
+.heading3 {
+    color:aliceblue;
+    background-color:tomato;
+    font-size: 40px;
+}
+.heading4 {
+    color:aliceblue;
+    background-color:tomato;
+    font-size: 40px;
+}
